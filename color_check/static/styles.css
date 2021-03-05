@@ -1,12 +1,19 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 2rem;
+    text-align: center;
 }
 
 .banner {
     margin-top: 2rem;
     color: black;
     margin-bottom: 1rem;
+    text-align: center;
+}
+
+p {
+    max-width: 400px;
+    text-align: center;
 }
 
 footer {
